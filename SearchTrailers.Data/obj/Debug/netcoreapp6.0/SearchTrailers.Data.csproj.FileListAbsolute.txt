@@ -1,0 +1,17 @@
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/bin/Debug/netcoreapp6.0/SearchTrailers.Data.deps.json
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/bin/Debug/netcoreapp6.0/SearchTrailers.Data.runtimeconfig.json
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/bin/Debug/netcoreapp6.0/SearchTrailers.Data.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/bin/Debug/netcoreapp6.0/SearchTrailers.Data.pdb
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/SearchTrailers.Data.csproj.AssemblyReference.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/SearchTrailers.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/SearchTrailers.Data.AssemblyInfoInputs.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/SearchTrailers.Data.AssemblyInfo.cs
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/SearchTrailers.Data.csproj.CoreCompileInputs.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/SearchTrailers.Data.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/refint/SearchTrailers.Data.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/SearchTrailers.Data.pdb
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/SearchTrailers.Data.genruntimeconfig.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/ref/SearchTrailers.Data.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/bin/Debug/netcoreapp6.0/SearchTrailers.Services.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/bin/Debug/netcoreapp6.0/SearchTrailers.Services.pdb
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/Debug/netcoreapp6.0/SearchTrailers.Data.csproj.CopyComplete

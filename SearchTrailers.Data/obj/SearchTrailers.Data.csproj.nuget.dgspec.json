@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/SearchTrailers.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/SearchTrailers.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/SearchTrailers.Data.csproj",
+        "projectName": "SearchTrailers.Data",
+        "projectPath": "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/SearchTrailers.Data.csproj",
+        "packagesPath": "/Users/ines/.nuget/packages/",
+        "outputPath": "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ines/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "netcoreapp6.0",
+            "projectReferences": {
+              "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/SearchTrailers.Services.csproj": {
+                "projectPath": "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/SearchTrailers.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "netcoreapp6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/SearchTrailers.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/SearchTrailers.Services.csproj",
+        "projectName": "SearchTrailers.Services",
+        "projectPath": "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/SearchTrailers.Services.csproj",
+        "packagesPath": "/Users/ines/.nuget/packages/",
+        "outputPath": "/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ines/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Apis.YouTube.v3": {
+              "target": "Package",
+              "version": "[1.57.0.2693, )"
+            },
+            "TMDbLib": {
+              "target": "Package",
+              "version": "[1.9.2, )"
+            },
+            "TheMovieDb": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

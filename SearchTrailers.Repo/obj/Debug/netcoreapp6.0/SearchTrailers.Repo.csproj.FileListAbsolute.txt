@@ -1,0 +1,17 @@
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/bin/Debug/netcoreapp6.0/SearchTrailers.Repo.deps.json
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/bin/Debug/netcoreapp6.0/SearchTrailers.Repo.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/bin/Debug/netcoreapp6.0/SearchTrailers.Repo.pdb
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/bin/Debug/netcoreapp6.0/SearchTrailers.Data.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/bin/Debug/netcoreapp6.0/SearchTrailers.Data.pdb
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/SearchTrailers.Repo.csproj.AssemblyReference.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/SearchTrailers.Repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/SearchTrailers.Repo.AssemblyInfoInputs.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/SearchTrailers.Repo.AssemblyInfo.cs
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/SearchTrailers.Repo.csproj.CoreCompileInputs.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/SearchTrailers.Repo.csproj.CopyComplete
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/SearchTrailers.Repo.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/refint/SearchTrailers.Repo.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/SearchTrailers.Repo.pdb
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/ref/SearchTrailers.Repo.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/bin/Debug/netcoreapp6.0/SearchTrailers.Repo.runtimeconfig.json
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Repo/obj/Debug/netcoreapp6.0/SearchTrailers.Repo.genruntimeconfig.cache

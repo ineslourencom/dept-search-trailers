@@ -1,0 +1,12 @@
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/bin/Debug/net6.0/SearchTrailers.Services.deps.json
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/bin/Debug/net6.0/SearchTrailers.Services.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/bin/Debug/net6.0/SearchTrailers.Services.pdb
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/Debug/net6.0/SearchTrailers.Services.csproj.AssemblyReference.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/Debug/net6.0/SearchTrailers.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/Debug/net6.0/SearchTrailers.Services.AssemblyInfoInputs.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/Debug/net6.0/SearchTrailers.Services.AssemblyInfo.cs
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/Debug/net6.0/SearchTrailers.Services.csproj.CoreCompileInputs.cache
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/Debug/net6.0/SearchTrailers.Services.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/Debug/net6.0/refint/SearchTrailers.Services.dll
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/Debug/net6.0/SearchTrailers.Services.pdb
+/Users/ines/Documents/Pessoal/JobApplications/Dept-Exercise/SearchTrailers.Services/obj/Debug/net6.0/ref/SearchTrailers.Services.dll
